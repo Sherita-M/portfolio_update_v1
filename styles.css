@@ -189,6 +189,11 @@ a.social:hover {
     padding: 0 30px;
   }
 
+  input {
+    border: 3px solid lightgray;
+    border-radius: 5px;
+  }
+
   main {
     padding-top: 20px;
   }
