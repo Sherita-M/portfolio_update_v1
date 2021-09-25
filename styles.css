@@ -189,7 +189,7 @@ a.social:hover {
     padding: 0 30px;
   }
 
-  input {
+  .input {
     border: 3px solid lightgray;
     border-radius: 5px;
   }
@@ -197,12 +197,6 @@ a.social:hover {
   .message {
     border: 3px solid lightgray;
     border-radius: 5px;
-  }
-
-  label {
-    font-size: 12px;
-    font-family: Arial, Helvetica, sans-serif;
-    padding-left: 5px;
   }
 
   main {
