@@ -63,6 +63,11 @@ header {
   overflow: hidden;
   padding-top: 60px;
 }
+.experience-header {
+  background: url("images/experienceimg.jpg");
+  background-size: cover;
+  background-position: top;
+}
 header {
   line-height: 1.5;
 }
@@ -211,5 +216,6 @@ a.social:hover {
     font-size: 1.3em;
     max-width: 1200px;
     margin: 40px auto;
+    background-image: url();
   }
 }
